@@ -1,5 +1,7 @@
 # todo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sutaojie/todolists.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
