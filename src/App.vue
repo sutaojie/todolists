@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="app">
-  <to-aside/>
-  <todo-lists/>
+  <to-aside></to-aside>
+  <todo-lists></todo-lists>
   </div>
 </template>
 
@@ -14,7 +14,7 @@ export default {
   components:{
     ToAside,
     TodoLists
-  }
+  },
 }
 </script>
 
