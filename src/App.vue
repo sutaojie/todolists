@@ -5,6 +5,7 @@
 </template>
 
 <script>
+import './vendor/reset.css'
 import ToAside from './components/ToAside'
 export default {
   name: 'App',
